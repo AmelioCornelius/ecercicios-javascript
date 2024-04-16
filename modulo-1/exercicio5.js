@@ -1,4 +1,4 @@
-// Exercício 4: média simples
+// Exercício 5:
 const prompt = require('prompt-sync')();
 
 let nota1 = parseFloat(prompt("Digite a nota da primeira avaliação: "));
@@ -10,4 +10,6 @@ console.log(`Média Semestral: ${media}`);
 
 if (media >= 6.0) {
     console.log(`PARABÉNS! Você foi aprovado`);
+} else {
+    console.log(`Você foi REPROVADO! Estude mais`)
 }
