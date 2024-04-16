@@ -26,13 +26,21 @@ Para verificar se os lados fornecidos formam triângulo: A < B + C e B < A + C e
 
 9. Escreva um algoritmo que leia o código de origem de um produto e imprima a região do mesmo, conforme a tabela abaixo:
 
-10. Escreva um algoritmo para ler um número inteiro e escrevê-lo na tela 10 vezes.
+| Código de Origem | --- |
+| --- | --- |
+| 1 - Sul | 5 ou 6 - Nordeste |
+| 2 - Norte | 7, 8 ou 9 - Sudeste |
+| 2 - Leste | 10 até 20 - Centro-Oeste |
+| 2 - Oeste | 25 até 50 - Nordeste |
+| Fora dos Intervalos - Produto Importado |
 
-11. Escreva um algoritmo para ler uma quantidade indeterminada de valores inteiros. Para cada valor fornecido escrever uma mensagem que indica se cada valor fornecido é PAR ou ÍMPAR. O algoritmo será encerrado imediatamente após a leitura de um valor NULO ou NEGATIVO.
+11. Escreva um algoritmo para ler um número inteiro e escrevê-lo na tela 10 vezes.
 
-12. Escreva um algoritmo que gere os números de 1000 a 1999 e escreva aqueles que, divididos por 11, dão resto igual a 5.
+12. Escreva um algoritmo para ler uma quantidade indeterminada de valores inteiros. Para cada valor fornecido escrever uma mensagem que indica se cada valor fornecido é PAR ou ÍMPAR. O algoritmo será encerrado imediatamente após a leitura de um valor NULO ou NEGATIVO.
 
-13. Escrever um algoritmo que leia 5 valores para uma variável N e, para cada um deles, calcule e mostre a tabuada de 1 até N. Mostre a tabuada na forma:
+13. Escreva um algoritmo que gere os números de 1000 a 1999 e escreva aqueles que, divididos por 11, dão resto igual a 5.
+
+14. Escrever um algoritmo que leia 5 valores para uma variável N e, para cada um deles, calcule e mostre a tabuada de 1 até N. Mostre a tabuada na forma:
 * 1 x N = N
 * 2 x N = 2N
 * 3 x N = 3N
